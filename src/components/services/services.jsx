@@ -5,7 +5,7 @@ import {BiCheckShield} from 'react-icons/bi'
 
 const services = () => {
   return (
-    <section id='service'>
+    <section id='services'>
       <h5>Professional Background</h5>
       <h2>My Experience</h2>
 
