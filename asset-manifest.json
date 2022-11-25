@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-try/static/css/main.41ded43d.css",
+    "main.js": "/my-portfolio-try/static/js/main.2c3faee5.js",
+    "static/media/me-about.png": "/my-portfolio-try/static/media/me-about.84ca2f7a65e23d03c9d4.png",
+    "static/media/Profile.png": "/my-portfolio-try/static/media/Profile.758b769cf3ead179ed7f.png",
+    "static/media/certi2.PNG": "/my-portfolio-try/static/media/certi2.7332fca7feeed82b9128.PNG",
+    "static/media/Parth_Tech_Resume.pdf": "/my-portfolio-try/static/media/Parth_Tech_Resume.79cc30f4bd83ab45e8c9.pdf",
+    "static/media/certi1.PNG": "/my-portfolio-try/static/media/certi1.924ac65fb38667d32f20.PNG",
+    "static/media/portfolio2.jpg": "/my-portfolio-try/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/my-portfolio-try/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/my-portfolio-try/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/my-portfolio-try/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/my-portfolio-try/index.html",
+    "main.41ded43d.css.map": "/my-portfolio-try/static/css/main.41ded43d.css.map",
+    "main.2c3faee5.js.map": "/my-portfolio-try/static/js/main.2c3faee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ded43d.css",
+    "static/js/main.2c3faee5.js"
+  ]
+}
